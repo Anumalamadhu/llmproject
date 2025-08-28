@@ -8,7 +8,7 @@ This project trains AI models to automatically convert plain English questions i
 - **Input**: "What is the average salary of employees in the marketing department?"
 - **Output**: `SELECT AVG(salary) FROM employees WHERE department = 'marketing';`
 
-## 🔧 Models Used
+## Models Used
 
 The project compares two different AI models:
 
